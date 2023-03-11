@@ -1,10 +1,10 @@
-<img src="Images/github banner.gif" />
+<img src="/GithubReadme/Images/github banner.gif" />
 <h1 align="center">Hi 👋, I'm Falgun Patel</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img
   align="right"
   width="400"
-  src="Images/giphy.gif"
+  src="/GithubReadme/Images/giphy.gif"
 />
 
 <p align="left">
