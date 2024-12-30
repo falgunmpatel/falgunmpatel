@@ -14,7 +14,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **React** - 📫 How to reach me
+- 🌱 I’m currently learning **Docker** - 📫 How to reach me
 **falgunmpatel9123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
