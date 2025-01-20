@@ -45,9 +45,13 @@ alt="falgunmpatel"
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # 📊 GitHub Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=falgunmpatel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false" width="400" height="250" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgunmpatel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="300" height="250" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=falgunmpatel&theme=one_dark_pro&hide_border=false" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=falgunmpatel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false" width="400" height="250" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgunmpatel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="300" height="250" />  
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=falgunmpatel&theme=one_dark_pro&hide_border=false" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=falgunmpatel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
