@@ -3,12 +3,6 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <img
-    align="right"
-    style="border-radius: 20px; width: 300px; height: 200px; object-fit: cover; background: white"
-    src="./GithubReadme/Images/giphy.gif"
-/>
-
-<img
 align="left"
 src="https://komarev.com/ghpvc/?username=falgunmpatel&label=Profile%20views&color=0e75b6&style=flat"
 alt="falgunmpatel"
@@ -17,7 +11,10 @@ alt="falgunmpatel"
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working on **Vidsphere**<br>👯 I’m looking to collaborate on **MERN/Next.js**<br>🌱 I’m currently learning **Kubernetes**<br>💬 Ask me about **JS, TS, Java, MERN, Next.js, AWS, Docker**
+  🔭 I’m currently working on <b>Vidsphere</b> <br>
+  👯 I’m looking to collaborate on <b>MERN/Next.js</b> <br>
+  🌱 I’m currently learning <b>Kubernetes</b> <br>
+  💬 Ask me about <b>JS, TS, Java, MERN, Next.js, AWS, Docker</b>
 
 
 ## 🌐 Socials:
